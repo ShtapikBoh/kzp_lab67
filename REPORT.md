@@ -239,6 +239,10 @@ echo $?          # 0
 Артефакти wheel: `wheel-ubuntu-latest-2`, `wheel-windows-latest-2`,
 `wheel-macos-latest-2` (на сторінці запуску).
 
+Версія й Git-тег: версія в `pyproject.toml` — `1.0.0`, тег
+[1.0.0](https://github.com/ShtapikBoh/kzp_lab67/releases/tag/1.0.0) створено
+на коміті злиття Pull Request #2 (`0e473e4`).
+
 ## 13. GitHub Issues і Pull Request
 
 | Issue | Зміна | Перевірка |
