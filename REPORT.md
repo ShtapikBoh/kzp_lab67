@@ -50,6 +50,7 @@ class RoomLoad:
     lessons: int
     need: int
 
+
 @dataclass(frozen=True)
 class ScheduleSummary:
     total: int
